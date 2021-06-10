@@ -1,5 +1,8 @@
 # DrWolf Elide Utils
 
+[![](https://jitpack.io/v/drwolf-oss/elide-utils.svg)](https://jitpack.io/#drwolf-oss/elide-utils)
+
+
 Elide helper classes for Play (2.8.8)
 
 extend `it.drwolf.elide.ElideCfg` with your checks
