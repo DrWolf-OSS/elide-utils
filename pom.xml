@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>elide-utils</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -23,7 +23,7 @@
         <dependency>
             <groupId>com.github.drwolf-oss</groupId>
             <artifactId>hibernate-utils</artifactId>
-            <version>0.1.2</version>
+            <version>0.1.3</version>
         </dependency>
         <dependency>
             <groupId>com.yahoo.elide</groupId>
